@@ -2,7 +2,7 @@
 
 An interactive Web GIS dashboard for exploring the **block boundaries of Bageshwar district, Uttarakhand**. It combines a map view with charts, driven by a single GeoJSON file with Census attributes.
 
-👉 **Live Demo:** [dashboard-bageshwar-blocks-three.vercel.app](https://dashboard-bageshwar-blocks.vercel.app/)
+👉 **Live Demo:** [dashboard-bageshwar-blocks.vercel.app](https://dashboard-bageshwar-blocks.vercel.app/)
 💻 **GitHub:** [RawatGitLab/Dashboard-Bageshwar-Blocks](https://github.com/RawatGitLab/Dashboard-Bageshwar-Blocks)
 
 ---
